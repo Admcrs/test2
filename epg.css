@@ -1,0 +1,27 @@
+body{
+    background-color: beige;
+}
+
+
+h2{
+    color: #ffffff;
+    margin: 50px;
+}
+navbar{
+    border: #5e083e;
+    background-color: crimson;
+}
+img{
+    border-radius: 100%;
+}
+p{
+    color: #5e083e;
+}
+h{
+     border: 100px  #5e083e;
+    color: blue;
+   
+}
+a{
+    margin: 10px;
+}
